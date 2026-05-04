@@ -13,6 +13,3 @@ git clone https://github.com/your-username/ml-repository.git
 cd ml-repository
 pip install -r requirements.txt
 ```
-
-## 📝 License
-[MIT License](LICENSE)
